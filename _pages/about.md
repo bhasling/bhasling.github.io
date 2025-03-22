@@ -18,8 +18,8 @@ to make code more reliable.
 Recent Experience
 ======
 I am working in Hydrogology related software engineering work in the Maxwell lab in
-the Civil Engeineering department at Princeton work with large clusters and pedabytes of data.
+the Civil Engineering department at Princeton working with large CPU/GPU clusters and pedabytes of data.
 
-Recently have been working mostly in python, javascript, shell scripts and CI/CD with Jenkins and GitHub actions.
-Also doing maintenance with software in C/C++ and Fortran.
+Recently I have been working mostly in python, javascript, shell scripts and CI/CD with Jenkins and GitHub actions.
+I also do maintenance with software in C/C++ and Fortran.
 
