@@ -7,7 +7,7 @@ excerpt: 'This is JOSS paper describing hf_hydrodata'
 date: 2024-07-26
 venue: 'Journal of Open Source Software'
 slidesurl: 'https://www.theoj.org/joss-papers/joss.06623/10.21105.joss.06623.pdf'
-paperurl: 'https://joss.theoj.org/papers/10.21105/joss.06623
+paperurl: 'https://joss.theoj.org/papers/10.21105/joss.06623'
 citation: 'William Hasling, You. (2024). &quot;hf_hydrodata: A Python package for accessing hydrologic simulations and observations across the United States&quot; <i>Journal of Open Source Software</i>. 1(1).'
 ---
 
