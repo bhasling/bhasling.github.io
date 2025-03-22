@@ -2,7 +2,7 @@
 title: "hf_hydrodata: A Python package for accessing hydrologic simulations and observations across the United States"
 collection: publications
 category: manuscripts
-permalink: /publications/2024-07-26-joss
+permalink: /publication/2011-06-01-title-number-3
 excerpt: 'This is JOSS paper describing hf_hydrodata'
 date: 2024-07-26
 venue: 'Journal of Open Source Software'
