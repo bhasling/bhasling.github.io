@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "BillPhoto.jpg"
   name             : "Bill Hasling"
-  pronouns         : # example: "she/her"  
-  bio              : "Software Architect/Developer"
+  pronouns         : "# example: "she/her"  "
+  bio              : "bhasling@gmail.com"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
   uri              : # URL
