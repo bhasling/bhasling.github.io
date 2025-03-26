@@ -8,13 +8,7 @@ date: 2025-01-17
 location: "Princeton University"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This was an introduction to software unit testing 
+using python and pytest as examples.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[Presentation Slides Here](git@github.com:PrincetonUniversity/software_testing.git)
