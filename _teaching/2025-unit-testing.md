@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Software Unit Testing Workshop"
 collection: teaching
-type: "Undergraduate course"
+type: "Princeton Wintersession"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Princeton University Lewis Library"
+date: 2025-01-17
+location: "Princeton University"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
