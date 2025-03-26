@@ -11,5 +11,5 @@ location: "Princeton University"
 This was an introduction to software unit testing 
 using python and pytest as examples.
 
-[Presentation Slides Here](https://git@github.com/PrincetonUniversity/software_testing.git)
+[Presentation Slides Here](https://github.com/PrincetonUniversity/software_testing)
 
