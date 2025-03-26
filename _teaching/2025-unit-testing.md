@@ -8,8 +8,9 @@ date: 2025-01-17
 location: "Princeton University"
 ---
 
+[Presentation Slides Here](https://github.com/PrincetonUniversity/software_testing)
 This was an introduction to software unit testing 
 using python and pytest as examples.
 
-[Presentation Slides Here](https://github.com/PrincetonUniversity/software_testing)
+
 
