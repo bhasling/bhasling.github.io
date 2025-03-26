@@ -10,7 +10,7 @@ location: "Princeton University"
 
 [Presentation Slides Here](https://github.com/PrincetonUniversity/software_testing)
 This was an introduction to software unit testing 
-using python and pytest as examples.
+using python and pytest as examples. Presented at Princeton Wintersession.
 
 
 
